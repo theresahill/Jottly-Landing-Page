@@ -28,7 +28,6 @@ h1 {
 @media (min-width: 900px) {
   h1 {
     font-size: 85px;
-    font-weight: 300;
   } 
 }
 
@@ -85,7 +84,11 @@ h4 {
 }
 
 p {
+<<<<<<< HEAD
   font-size: 14px;
+=======
+  font-size: 16px;
+>>>>>>> origin/gh-pages
   font-family: "Kameron";
   font-weight: normal;
   color: #888686;
@@ -109,6 +112,10 @@ p-alt2 {
 
 .logo {
   width: 100px; height: 75px;
+  width: 100px; 
+  position: relative;
+  top: 30px;
+  right: 10px;
 }
 
 
