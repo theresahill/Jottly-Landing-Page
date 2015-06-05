@@ -84,7 +84,11 @@ h4 {
 }
 
 p {
+<<<<<<< HEAD
+  font-size: 14px;
+=======
   font-size: 16px;
+>>>>>>> origin/gh-pages
   font-family: "Kameron";
   font-weight: normal;
   color: #888686;
@@ -107,6 +111,7 @@ p-alt2 {
 /*Logo*/
 
 .logo {
+  width: 100px; height: 75px;
   width: 100px; 
   position: relative;
   top: 30px;
