@@ -28,6 +28,7 @@ h1 {
 @media (min-width: 900px) {
   h1 {
     font-size: 85px;
+    font-weight: 300;
   } 
 }
 
